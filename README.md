@@ -1,7 +1,7 @@
 # Titanic Survivor Prediction with H2O AutoML
 From Kaggle competition Titanic: Machine Learning from Disaster: https://www.kaggle.com/c/titanic
 
-The original Kernel can be acessed here, to see ProfileReport made by Pandas Profiling: https://www.kaggle.com/alexandrefarb/fastanic-fastai-pandas-profiling-h2o-automl?scriptVersionId=24255044
+The original Kernel can be acessed here, to see ProfileReport made by Pandas Profiling: https://www.kaggle.com/alfarias/fastanic-fastai-pandas-profiling-h2o-automl
 
 In this approach is made an approach using three Python modules as the pillars: fastai, Pandas Profiling and H2O, but why to use these modules? Because they can do so much work writing just a few lines of code speeding up the process, therefore the name "Fastanic".
 
